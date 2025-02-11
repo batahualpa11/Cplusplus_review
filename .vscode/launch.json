@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/brianatahualpa/Desktop/Cplusplus_review/C++_Tutorial",
+      "program": "/Users/brianatahualpa/Desktop/Cplusplus_review/C++_Tutorial/build/Debug/outDebug"
+    }
+  ]
+}
