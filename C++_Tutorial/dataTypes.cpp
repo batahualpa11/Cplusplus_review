@@ -11,5 +11,7 @@ int main()
     float total = items * cost_per_item;
     char currency = '$';
 
-    
+    cout << "Number of items: " << items << endl;
+    cout << "Cost per item: " << cost_per_item << endl;
+    cout << "Total Cost: " << currency << "" << total << endl;
 }
